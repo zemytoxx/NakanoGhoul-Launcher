@@ -1,7 +1,7 @@
 {
     "name": "NakanoGhoul",
     "preductname": "Nakano Ghoul Launcher",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Launcher Officiel de Nakano Ghoul",
     "main": "src/app.js",
     "author": "ZeMyToXx",
